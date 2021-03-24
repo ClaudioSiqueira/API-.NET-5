@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Claudio\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Claudio\\.nuget\\packages"
+    ]
+  }
+}
